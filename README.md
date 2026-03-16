@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Here‘s Tide</h1>
+<h1 align="left">Hey 👋 I'm Tide</h1>
 
 ###
 
@@ -6,16 +6,20 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Web_full_stack  and C++ <br>🎯 Goals: learn and learn</p>
+<p align="left">🎓 Software Engineering Student<br>✨ Coding for 1.5 years<br>📚 Currently learning Web full-stack & C++<br>🐧 Next: Linux & Docker<br>⚽ Football enthusiast<br>🎯 Goal: Become an architect</p>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/football.svg" height="40" alt="football logo"  />
 </div>
 
 ###
