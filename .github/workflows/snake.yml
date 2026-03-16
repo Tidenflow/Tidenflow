@@ -15,23 +15,19 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
+      - uses: actions/checkout@v4
 
-      - name: Generate GitHub-contribution graph
+      - name: Generate GitHub-contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
-        uses: actions-x/push@v1
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          force: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Generate snake animation
+          file_pattern: dist/*.svg
+          push_options: --force
