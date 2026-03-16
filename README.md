@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Liu16j/Liu16j/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Liu16j/Liu16j/main/dist/snake.svg" alt="Snake animation" />
 
 ###
 
