@@ -1,14 +1,16 @@
-<h1 align="left">Hey 👋 I'm Tide</h1>
+<h1 align="center">Hey 👋 I'm Tide</h1>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">🎓 Software Engineering Student<br>✨ Coding for 1.5 years<br>📚 Currently learning Web full-stack & C++<br>🐧 Next: Linux & Docker<br>⚽ Football enthusiast<br>🎯 Goal: Become an architect</p>
+<p align="left">I'm Tide, studying Software Engineering in Harbin. I love engineering-oriented computer technologies and enjoy exploring efficient, maintainable solutions.</p>
 
 ###
+
+<h3 align="left">Tech</h3>
+
+<p align="left">1. Web Development - Vue, NodeJS Express, JavaScript, TypeScript<br>2. C++ Qt Development - Industrial Software & Desktop Tools<br>3. AI Tools & Vibe Coding Developer</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -18,21 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
