@@ -67,6 +67,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake" />
 </p>
 
+<h3 style="font-size: 22px; font-weight: 600;">🖥️ Environment</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="48" alt="Windows 11" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="48" alt="Arch Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="48" alt="Chrome" />
+</p>
+
 <h3 style="font-size: 22px; font-weight: 600;">🚀 Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus" />&nbsp;&nbsp;
